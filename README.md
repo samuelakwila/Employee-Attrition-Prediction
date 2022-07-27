@@ -1,7 +1,7 @@
 # Employee Attrition Presiction
 Final Project in Rakamin Academy Data Science Bootcamp
 
-Employee Attrition Prediction
+**Employee Attrition Prediction**
 Final presentation project for Rakamin Academy Data Science Bootcamp.
 
 Problem Statement
